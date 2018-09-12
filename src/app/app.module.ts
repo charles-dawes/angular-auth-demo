@@ -14,11 +14,12 @@ import { routes } from './app.routes';
 
 // Must export the config
 export const firebaseConfig = {
-  apiKey: 'AIzaSyAaTLLTBfT8-tlCXOKlp4LrwQzhVWjbM1Q',
-  authDomain: 'angular-pre.firebaseapp.com',
-  databaseURL: 'https://angular-pre.firebaseio.com',
-  storageBucket: 'angular-pre.appspot.com',
-  messagingSenderId: '796422970338'
+  apiKey: "AIzaSyCTYVHKWKBQwc0YJPw3mQ63LNVrZZSWvWQ",
+  authDomain: "nametagapp-2000d.firebaseapp.com",
+  databaseURL: "https://nametagapp-2000d.firebaseio.com",
+  projectId: "nametagapp-2000d",
+  storageBucket: "nametagapp-2000d.appspot.com",
+  messagingSenderId: "554719623830"
 };
 
 @NgModule({
